@@ -1,0 +1,84 @@
+{
+    "stan-eminem-ft-dido": {
+        "lyrics": [
+            {
+                "text": "My tea's gone cold, I'm wondering why I got out of bed at all...",
+                "time": 500,
+                "color": "cyan",
+                "speed": 60
+            },
+            {
+                "text": "The morning rain clouds up my window, and I can't see at all...",
+                "time": 6000,
+                "color": "magenta",
+                "speed": 1
+            },
+            {
+                "text": "And even if I could, it'd all be gray...",
+                "time": 13000,
+                "color": "yellow",
+                "speed": 120
+            },
+            {
+                "text": "But your picture on my wall...",
+                "time": 16000,
+                "color": "green",
+                "speed": 100
+            },
+            {
+                "text": "It reminds me that it's not so bad,",
+                "time": 19000,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": " it's not so bad.",
+                "time": 22500,
+                "color": "cyan",
+                "speed": 500
+            }
+        ],
+        "audioName": "stan-eminem-ft-dido.mp3"
+    },
+    "kal-chaudhvin-ki-raat-thi": {
+        "lyrics": [
+            {
+                "text": "Kal Chaudhvin Ki Raat Thi,",
+                "time": 500,
+                "color": "cyan",
+                "speed": 60
+            },
+            {
+                "text": "Aaj Phir Dil Ne Ek Tamanna Ki,",
+                "time": 6000,
+                "color": "magenta",
+                "speed": 1
+            },
+            {
+                "text": "Aaj Phir Dil Ko Humne Samjhaaya,",
+                "time": 13000,
+                "color": "yellow",
+                "speed": 120
+            },
+            {
+                "text": "Aaj Phir Yaad Tujhko Aaya,",
+                "time": 16000,
+                "color": "green",
+                "speed": 100
+            },
+            {
+                "text": "Aaj Phir Dil Ne Ek Tamanna Ki,",
+                "time": 19000,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "Aaj Phir Dil Ko Humne Samjhaaya,",
+                "time": 22500,
+                "color": "cyan",
+                "speed": 500
+            }
+        ],
+        "audioName": "kal-chaudhvin-ki-raat-thi.mp3"
+    }
+}
