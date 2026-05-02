@@ -132,6 +132,59 @@
                 "speed": 160
             }
         ],
-        "audioName": "hothon-se-chhoo-lo-tum.mp3"
+        "audioName": "hothon-se-chhoo-lo-tum-part1.mp3"
+    },
+    "hothon-se-chhoo-lo-tum-part2": {
+        "lyrics": [
+            {
+                "text": "Jagg ne chheena mujhse ......",
+                "time": 800,
+                "color": "cyan",
+                "speed": 120
+            },
+            {
+                "text": "Mujhe jo bhi laga Pyaara ......",
+                "time": 5800,
+                "color": "magenta",
+                "speed": 120
+            },
+            {
+                "text": "sab jeeta kiye mujhse ......",
+                "time": 10900,
+                "color": "yellow",
+                "speed": 120
+            },
+            {
+                "text": "main har dum hi haara ......",
+                "time": 15400,
+                "color": "green",
+                "speed": 120
+            },
+            {
+                "text": "tum haarke dil apna ......",
+                "time": 20000,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "meri jeet amar kardo....",
+                "time": 24900,
+                "color": "cyan",
+                "speed": 160
+            },
+            {
+                "text": "tum haarke dil apna ......",
+                "time": 29700,
+                "color": "cyan",
+                "speed": 160
+            },
+            {
+                "text": "meri jeet amar kardo....",
+                "time": 35000,
+                "color": "cyan",
+                "speed": 160
+            }
+        ],
+        "audioName": "hothon-se-chhoo-lo-tum-part2.mp3"
     }
 }
