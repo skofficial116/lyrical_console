@@ -40,7 +40,7 @@
         ],
         "audioName": "stan-eminem-ft-dido.mp3"
     },
-    "kal-chaudhvin-ki-raat-thi": {
+    "kal-chaudhvin-ki-raat-thi-part1": {
         "lyrics": [
             {
                 "text": "Kal Chaudhvin Ki Raat Thi,",
@@ -80,5 +80,58 @@
             }
         ],
         "audioName": "kal-chaudhvin-ki-raat-thi.mp3"
+    },
+    "hothon-se-chhoo-lo-tum-part1": {
+        "lyrics": [
+            {
+                "text": "Na Umar ki seema ho ......",
+                "time": 500,
+                "color": "cyan",
+                "speed": 120
+            },
+            {
+                "text": "Na Janam ka ho bandhan ......",
+                "time": 5500,
+                "color": "magenta",
+                "speed": 120
+            },
+            {
+                "text": "Jab pyaar kare koi ......",
+                "time": 10000,
+                "color": "yellow",
+                "speed": 120
+            },
+            {
+                "text": "to dekhe keval mann ......",
+                "time": 15000,
+                "color": "green",
+                "speed": 120
+            },
+            {
+                "text": "nayi reet chalaakar tum ......",
+                "time": 19500,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "ye reet amar kardo....",
+                "time": 24000,
+                "color": "cyan",
+                "speed": 160
+            },
+            {
+                "text": "nayi reet chalaakar tum ......",
+                "time": 29000,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "ye reet amar kardo....",
+                "time": 33500,
+                "color": "cyan",
+                "speed": 160
+            }
+        ],
+        "audioName": "hothon-se-chhoo-lo-tum.mp3"
     }
 }

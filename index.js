@@ -1,18 +1,17 @@
 import chalk from "chalk";
 import gradient from "gradient-string";
 import playSound from "play-sound";
+import path from "path";
+import db from "./db/db.json" with { type: "json" };
 
 const player = playSound();
 
-import path from "path";
+const trackName = process.argv[2]
+// const trackName = "hothon-se-chhoo-lo-tum-part1";
 
-const songName= "stan-eminem-ft-dido";
-
-import db  from "./db.json" with { type: "json" };
-
-const AUDIO_FILE = path.resolve(`./audio/${songName}.mp3`);
+const AUDIO_FILE = path.resolve(`./audio/${trackName}.mp3`);
 const TYPING_SPEED = 50;
-const lyrics = db[songName]["lyrics"];
+const lyrics = db[trackName]["lyrics"];
 
 
 function sleep(ms) {
@@ -56,7 +55,7 @@ async function playLyrics() {
   await sleep(2000)
 
   console.log(
-    chalk.bold(gradient.rainbow("🎵 Stan Lyrics - Sachin 🎵\n"))
+    chalk.bold(gradient.rainbow(`🎵 [ ${trackName} ] 🎵\n`))
   );
 
   const startTime = Date.now();
@@ -78,17 +77,18 @@ async function playLyrics() {
       await sleep(waitTime);
     }
 
-    await typeLine(lyrics[i].text, lyrics[i].color);
+    await typeLine(lyrics[i].text, lyrics[i].color,   lyrics[i].speed);
 
     await sleep(200);
   }
   await sleep(1000);
 
-
+  console.log()
+  console.log()
   await typeLine(
-    "✨ Like & follow @Musical_Coder on Insta ✨",
+    "✨ Like & follow @lyrical_coder_official on Insta ✨",
     "magenta",
-    40 
+    40
   );
 
   await sleep(2000);
