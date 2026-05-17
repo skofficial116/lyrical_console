@@ -186,5 +186,82 @@
             }
         ],
         "audioName": "hothon-se-chhoo-lo-tum-part2.mp3"
+    },
+    "kya-khoob-lagti-ho-part1": {
+        "lyrics": [
+            {
+                "text": "Kya Khoob lagti ho......",
+                "time": 3900,
+                "color": "cyan",
+                "speed": 150
+            },
+            {
+                "text": "Badi SUNDAR dikhti ho......",
+                "time": 7900,
+                "color": "cyan",
+                "speed": 130
+            },
+            {
+                "text": "Kya Khoob lagti ho......",
+                "time": 10300,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "Badi SUNDAR dikhti ho......",
+                "time": 14700,
+                "color": "cyan",
+                "speed": 120
+            },
+            {
+                "text": "Phir se kaho, Kehte rho......",
+                "time": 18700,
+                "color": "magenta",
+                "speed": 120
+            },
+            {
+                "text": "Acha lagta hai....",
+                "time": 21000,
+                "color": "magenta",
+                "speed": 160
+            },
+            {
+                "text": "Jeevan ka har sapna......",
+                "time": 25400,
+                "color": "magenta",
+                "speed": 120
+            },
+            {
+                "text": "Ab Sachha lagta hai....",
+                "time": 27900,
+                "color": "magenta",
+                "speed": 140
+            },
+              {
+                "text": "Kya Khoob lagti ho......",
+                "time": 3900,
+                "color": "cyan",
+                "speed": 150
+            },
+            {
+                "text": "Badi SUNDAR dikhti ho......",
+                "time": 7900,
+                "color": "cyan",
+                "speed": 130
+            },
+            {
+                "text": "Kya Khoob lagti ho......",
+                "time": 10300,
+                "color": "cyan",
+                "speed": 140
+            },
+            {
+                "text": "Badi SUNDAR dikhti ho......",
+                "time": 14700,
+                "color": "cyan",
+                "speed": 120
+            }
+        ],
+        "audioName": "kya-khoob-lagti-ho-part1.mp3"
     }
 }

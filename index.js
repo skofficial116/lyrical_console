@@ -81,7 +81,7 @@ async function playLyrics() {
 
     await sleep(200);
   }
-  await sleep(1000);
+  await sleep(3000);
 
   console.log()
   console.log()
